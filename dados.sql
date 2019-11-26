@@ -1,0 +1,5 @@
+﻿INSERT INTO produto (id, nome, preco) VALUES (1, 'Agua', 2.00)
+INSERT INTO produto (id, nome, preco) VALUES (2, 'Refrigerante', 3.00)
+INSERT INTO produto (id, nome, preco) VALUES (3, 'Pastel', 2.5)
+INSERT INTO produto (id, nome, preco) VALUES (4, 'Suco de laranja', 4.00)
+INSERT INTO produto (id, nome, preco) VALUES (5, 'Coxinha', 3.00)
